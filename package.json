@@ -1,24 +1,24 @@
 {
-  "name": "goit-js-hw-09",
+  "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/veta41/goit-js-hw-09",
+  "homepage": "https://github.com/veta41/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/veta41/goit-js-hw-09.git"
+    "url": "git+https://github.com/veta41/goit-js-hw-10.git"
   },
   "keywords": [],
   "author": "Chudesa Svitlana <chsveta34@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/veta41/goit-js-hw-09/issues"
+    "url": "https://github.com/veta41/goit-js-hw-10/issues"
   },
   "dependencies": {
-    "flatpickr": "^4.6.13",
+    
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.5"
   },
