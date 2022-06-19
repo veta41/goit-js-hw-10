@@ -18,6 +18,7 @@ body {
   font: inherit;
   padding: 18px;
   min-width: 420px;
+  margin-top: 30px;
   margin-bottom: 16px;
   border-radius: 10px;
 }
@@ -31,7 +32,7 @@ body {
   list-style: none;
   display: flex;
   align-items: center;
- justify-content: center;
+  justify-content: center;
 }
 
 .country-list__name {
