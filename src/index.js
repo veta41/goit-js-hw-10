@@ -17,7 +17,7 @@ refs.searchBox.addEventListener('input', debounce(onSearchBoxInput, DEBOUNCE_DEL
 function onSearchBoxInput() {
   const name = refs.searchBox.value.trim()
   if (name === '') {
-    return 
+    
             refs.countryList.innerHTML = '', 
             refs.countryInfo.innerHTML = ''
 }
